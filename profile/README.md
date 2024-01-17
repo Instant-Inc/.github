@@ -1,3 +1,3 @@
 ## Instant-Inc
 
-Chat & Workflow management
+Chat-powered workflow management
